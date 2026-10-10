@@ -3,6 +3,9 @@
 > 给《欲都孤儿 / Degrees of Lewdity》汉化版加一条**状态栏服装图标条**和一个**衣柜悬浮页**：
 > 不用翻好几层菜单，抬眼就知道自己现在穿着什么，点两下就能换掉。
 
+<img width="779" height="494" alt="预览" src="https://github.com/user-attachments/assets/54393a5e-b593-4a45-b116-217ea590e862" />
+
+
 - 当前版本：**0.8.2**  
 - 交付物：`clothesicon-0.8.2.mod.zip`
 - 依赖：ModLoader `>=2.0.0`、秋枫白桦框架 maplebirch Frameworks `>=5.4.0 <6.0.0`
