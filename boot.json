@@ -1,0 +1,28 @@
+{
+  "name": "clothesicon",
+  "nickName": {
+    "en": "Clothes Icon Bar",
+    "cn": "状态栏服装图标"
+  },
+  "version": "0.8.2",
+  "styleFileList": [],
+  "tweeFileList": [],
+  "imgFileList": [],
+  "scriptFileList": [
+    "framework.js"
+  ],
+  "additionFile": [
+    "README.md"
+  ],
+  "addonPlugin": [],
+  "dependenceInfo": [
+    {
+      "modName": "ModLoader",
+      "version": ">=2.0.0"
+    },
+    {
+      "modName": "maplebirch",
+      "version": ">=5.4.0 <6.0.0"
+    }
+  ]
+}
