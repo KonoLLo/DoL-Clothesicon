@@ -144,7 +144,7 @@
 
 ## 三、许可与声明
 
-Copyright © 2026 clothesicon 作者. Some rights reserved.
+Copyright © 2026 clothesicon 作者. KonoLLo.
 
 本模组以 **CC BY-NC-SA 4.0**（署名 - 非商业性使用 - 相同方式共享）许可发布：
 
