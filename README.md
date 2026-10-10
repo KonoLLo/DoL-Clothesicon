@@ -7,7 +7,6 @@
 
 
 - 当前版本：**0.8.2**  
-- 交付物：`clothesicon-0.8.2.mod.zip`
 - 依赖：ModLoader `>=2.0.0`、秋枫白桦框架 maplebirch Frameworks `>=5.4.0 <6.0.0`
 - 实测环境：DoL **0.5.12.13「深渊」** + Breeze of Lewdity **b1.3.4** + maplebirch **5.4.2**
 - 许可：**CC BY-NC-SA 4.0**
