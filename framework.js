@@ -17,7 +17,6 @@
  * 悬浮页高度写死：桌面 5 列、移动端 4 列，11 个部位 + 脱下恒为 3 行。
  *
  * 换装一律调用原版 widget（generalWearFromWardrobe / generalUndress / generalOn），
- * 不自己搬运对象，诅咒、套装、孕期、史莱姆等限制全部由原版判定。
  */
 (() => {
 	'use strict';
@@ -34,7 +33,7 @@
 	const NAKED = 'naked';
 	const MAX_CACHE = 400;
 
-	// 与原版衣柜页签同名、同顺序（游戏里没有外衣/私部页签，就不凭空造）
+	// 与原版衣柜页签同名、同顺序
 	const TAB_SLOTS = [
 		['head', '头饰'], ['face', '面饰'], ['neck', '颈部'],
 		['upper', '上装'], ['lower', '下装'],
